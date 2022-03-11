@@ -33,6 +33,7 @@ PA_Item | 各種特殊道具的系統 |
 Nagi_AdminRecord | 管理員的指令使用存檔至Discord log |
 PA_Mailbox | 信箱系統 主要用於副本至生存服的物資或金錢傳送 |
 PA_MapSystem | 畫作系統 同步各分流畫作與全自動販售 |
+Nagi_MapSync | 未來新版畫作同步系統 |
 PA_LobbyFeature | 大廳服的各種功能 |
 PA_DungeonFeature | 副本服的各種功能 |
 
