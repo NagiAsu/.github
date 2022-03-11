@@ -54,3 +54,8 @@ PA_DungeonFeature | 副本服的各種功能 |
 | -------- | -------- |
 | vue-info | 伺服器官方網站 |
 | DiscordCSBot | Discord客服機器人 |
+
+### 可能會做的項目
+| 系統 | 主要功能 | 
+| -------- | -------- |
+| Nagi_InventorySync | 背包同步系統(取代MySQLPlayerDataBridge) 並結合BC端實現同步稽核與log儲存 |
