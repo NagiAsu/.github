@@ -9,7 +9,7 @@
 # :mag: 連線資訊
 <font size="5"><b>伺服器 IP : <font color="#337ab7">nagiasu.xyz</font></b></font>
 
-<font size="5"><b>版本：1.18.1  </b></font>  
+<font size="5"><b>版本：1.19.2  </b></font>  
 <font size="3">可使用1.17以上的客戶端遊玩</font> 
 
 <font size="5" color="red"><b>正版驗證</b></font><font size="5" color="green"><b>  不用白名單</b></font><font size="5" color="blue"><b>  24小時運作</b></font>  
